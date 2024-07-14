@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_client_create_password.xml" value="0.264" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_client_login.xml" value="0.259375" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_client_main.xml" value="0.176" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_client_register.xml" value="0.264" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_owner_create_password.xml" value="0.20153985507246377" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_shed_owner_login.xml" value="0.259375" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_shed_owner_main.xml" value="0.264" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_shed_owner_register.xml" value="0.259375" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_shed_owner_update_fuel_status.xml" value="0.264" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/activity_shed_owner_update_time.xml" value="0.20153985507246377" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/dropdown_item.xml" value="0.264" />
+        <entry key="..\:/workspaces/AndroidStudioProjects/EADfrontend/app/src/main/res/layout/list_item.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
